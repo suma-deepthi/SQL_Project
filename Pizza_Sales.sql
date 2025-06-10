@@ -1,5 +1,4 @@
-
-# Retrieve the total number of orders placed.
+#Retrieve the total number of orders placed.
 select count(order_id) total_orders from orders;
 
 #Calculate the total revenue generated from pizza sales.
